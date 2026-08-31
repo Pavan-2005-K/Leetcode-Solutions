@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 ## Hash Table
@@ -28,6 +29,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
