@@ -9,10 +9,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
