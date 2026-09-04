@@ -19,6 +19,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -44,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0658-find-k-closest-elements](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
