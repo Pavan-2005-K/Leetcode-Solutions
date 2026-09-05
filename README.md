@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [2235-add-two-integers](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
