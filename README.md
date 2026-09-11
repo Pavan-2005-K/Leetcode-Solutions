@@ -32,6 +32,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [2235-add-two-integers](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [3870-count-commas-in-range](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
