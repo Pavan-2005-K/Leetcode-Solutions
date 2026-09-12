@@ -2,8 +2,11 @@ class Solution {
 public:
     vector<int> leftRightDifference(vector<int>& nums) {
         int n=nums.size();
-
-        int sum=accumulate(begin(nums),end(nums),0);
+        int sum=0;
+        for(int i=0;i<n;i++){
+            sum+=nums[i];
+        }
+        //int sum=accumulate(begin(nums),end(nums),0);
 
         vector<int>result(n);
         int curr=0;
