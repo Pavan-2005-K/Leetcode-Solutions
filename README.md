@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0835-image-overlap](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -95,6 +96,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
