@@ -13,7 +13,7 @@ public:
 
         ListNode* prev=head;
 
-        while(temp!=NULL&&temp->next!=NULL){
+        while(temp->next!=NULL){
             prev=prev->next;
             temp=temp->next;
         }
