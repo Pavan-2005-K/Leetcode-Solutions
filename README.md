@@ -34,6 +34,7 @@
 | [1669-merge-in-between-linked-lists](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
