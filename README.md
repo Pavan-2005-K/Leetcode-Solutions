@@ -14,6 +14,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2574-left-and-right-sum-differences](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -21,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
