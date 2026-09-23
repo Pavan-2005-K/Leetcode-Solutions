@@ -38,12 +38,14 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [2235-add-two-integers](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3870-count-commas-in-range](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
