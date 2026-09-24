@@ -29,6 +29,7 @@
 | [0002-add-two-numbers](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0658-find-k-closest-elements](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
