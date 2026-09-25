@@ -9,6 +9,7 @@
 | [0658-find-k-closest-elements](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0835-image-overlap](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0941-valid-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -60,6 +61,7 @@
 | [0162-find-peak-element](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Ternary Search
 |  |
