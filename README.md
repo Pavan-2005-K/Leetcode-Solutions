@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0835-image-overlap](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0835-image-overlap) |
@@ -58,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
