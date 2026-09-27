@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Matrix
 |  |
 | ------- |
@@ -130,4 +132,12 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
