@@ -9,6 +9,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0835-image-overlap](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -65,6 +66,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
