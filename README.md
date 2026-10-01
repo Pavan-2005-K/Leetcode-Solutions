@@ -102,6 +102,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -147,4 +148,12 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
