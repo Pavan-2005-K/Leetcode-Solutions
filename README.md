@@ -86,6 +86,7 @@
 | [0658-find-k-closest-elements](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sliding Window
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Pavan-2005-K/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
